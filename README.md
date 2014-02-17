@@ -1,5 +1,7 @@
+Instalação rápida do Wordpress no servidor PagodaBox - https://pagodabox.com/
+
 Guia Rápido
-----------------------
+==================
 
 Consiste de um guia rápido para que você possa usá=loo como base para seu próprio instalador. 
 
@@ -22,3 +24,9 @@ Consiste de um guia rápido para que você possa usá=loo como base para seu pr�
             name: wp-db
     </code>
 </pre>
+
+
+Considerações
+==================
+<p>Original repositório: https://github.com/pagodabox/wordpress-install</p>
+<p>O repositório original a instalação é de um Wordpress mais antigo e não é em Português do Brasil.</p>
